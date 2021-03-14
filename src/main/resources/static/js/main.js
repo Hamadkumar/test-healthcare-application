@@ -62,6 +62,7 @@
 	  	        values: ids
 	  	      })
 	  	$('#remove').prop('disabled', true)
+	  	$('#update').prop('disabled', true)
 	    })
 	     
 	    
